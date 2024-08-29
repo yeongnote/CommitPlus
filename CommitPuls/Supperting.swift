@@ -3,6 +3,6 @@
 //  CommitPuls
 //
 //  Created by YeongHo Ha on 8/29/24.
-// Setting
+// 
 
 import Foundation
